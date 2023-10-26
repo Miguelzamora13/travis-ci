@@ -74,3 +74,4 @@ If an issue has been left open and untouched for 90 days or more, we automatical
 close them. We do this to ensure that new issues are more easily noticeable, and 
 that old issues that have been resolved or are no longer relevant are closed. 
 You can read more about this [here](https://blog.travis-ci.com/2018-03-09-closing-old-issues).
+
